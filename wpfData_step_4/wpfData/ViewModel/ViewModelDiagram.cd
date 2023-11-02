@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wpfData_Step_4.ViewModel.BaseDB" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAAAAAAAAAAAAoAAAABAAAAAgQAAAAAAAAAAAASAAA=</HashCode>
+      <FileName>ViewModel\BaseDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wpfData_Step_4.ViewModel.CityDB" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ViewModel\CityDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wpfData_Step_4.ViewModel.UserDB" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ViewModel\UserDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
